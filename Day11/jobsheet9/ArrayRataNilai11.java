@@ -44,6 +44,6 @@ public class ArrayRataNilai11 {
 
         System.out.println("Rata-rata Nilai Mahasiswa Lulus = " + rata2Lulus);
         System.out.println("Rata-rata Nilai Mahasiswa Tidak Lulus = "+ rata2TdkLulus);
-
+        sc.close();
     }
 }
