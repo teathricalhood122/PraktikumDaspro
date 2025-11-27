@@ -2,9 +2,7 @@ package Tugas;
 
 import java.util.Scanner;
 
-public class NilaiMahasiswa11 {
-
-  
+public class NilaiMahasiswa11 {  
     static void isianArray(int[] array, Scanner sc) {
         for (int i = 0; i < array.length; i++) {
             System.out.print("Masukkan nilai mahasiswa ke-" + (i + 1) + ": ");
