@@ -237,3 +237,7 @@ public class CM2Beasiswa11 {
         System.out.printf("Riset   : %.2f\n", (countRis > 0 ? totalRis / countRis : 0.0));
     }
 }
+
+/*
+https://github.com/teathricalhood122/PraktikumDaspro/tree/main/CaseMethod2
+ */
